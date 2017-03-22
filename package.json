@@ -1,0 +1,19 @@
+{
+  "name": "officeparser",
+  "version": "1.0.0",
+  "description": "Python executable to extract VB code from XLS macros",
+  "main": "officeparser_linux_amd64",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutoiku/officeparser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutoiku/officeparser/issues"
+  },
+  "homepage": "https://github.com/sutoiku/officeparser#readme"
+}
