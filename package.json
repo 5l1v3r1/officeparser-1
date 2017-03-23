@@ -1,6 +1,6 @@
 {
   "name": "officeparser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Python executable to extract VB code from XLS macros",
   "main": "officeparser_linux_amd64",
   "scripts": {
